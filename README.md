@@ -1,7 +1,7 @@
 # ibn_5100-hackpad
 
-![alt text][hackpad]
-[hackpad]: <Screenshot 2025-12-07 195648.png>
+![Uploading Screenshot 2025-12-07 195648.png…]()
+
 
 ![alt text][Schematic]
 [Schematic]: <Screenshot 2025-12-07 195915.png>
